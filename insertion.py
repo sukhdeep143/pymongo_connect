@@ -9,15 +9,12 @@ if __name__ == "__main__" :
     db = client["Test_database"]
     collection = db["This is a database collection !!!"]
     
+   
+
+    
     dictionary = [
-        {"name" : "sukhdeep", "age" : 22, "location" : "punjab"},
-        {"name" : "harman", "age" : 22, "location" : "punjab"},
-        {"name" : "aman", "age" : 23, "location" : "punjab"},
-        {"name" : "god", "age" : 999999, "location" : "punjab"},
-        {"name" : "sukhdeep", "age" : 22, "location" : "punjab"},
-        {"name" : "harman", "age" : 22, "location" : "punjab"},
-        {"name" : "aman", "age" : 23, "location" : "punjab"},
-        {"name" : "god", "age" : 999999, "location" : "punjab"}
+        {"name": "Mani", "age": 28, "city": "Mumbai"},
+    {"name": "Sukhmani", "age": 24, "city": "Bangalore"}
     ]
     
     
